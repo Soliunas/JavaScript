@@ -45,3 +45,13 @@ console.log(17%3);
 let liek=144;
 liek=liek%100;
 console.log(liek);
+
+console.clear();
+
+let n = 0;
+
+console.log(n);
+console.log(++n);
+console.log(++n);
+console.log(++n);
+console.log(++n);
