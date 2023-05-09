@@ -96,3 +96,4 @@ for (let i = 0; i < text.length; i ++) {
     const index = text.length - i - 1;
     console.log(i, '-', text[index]);
 }
+
