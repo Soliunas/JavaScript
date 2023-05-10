@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "5-arrw": "nodemon ./js/uzdaviniai/5-arrw.js",
+    "arrow": "nodemon ./js/13-arrow.js",
     "4-biggest": "nodemon ./js/uzdaviniai/4-biggest.js",
     "3-number": "nodemon ./js/uzdaviniai/3-number.js",
     "1-empty": "nodemon ./js/uzdaviniai/1-empty.js",
