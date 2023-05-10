@@ -138,7 +138,15 @@ if (a>=b) {
 
 //Isvesti teksto tipo kintamuju ilgius:
 
+const tekstoIlgis = 'laburytu';
+console.log(tekstoIlgis.length);
 
+const kitasTekstoIlgis = 'geradiena';
+console.log(kitasTekstoIlgis.length);
+
+//Tarpusavyje palyginti teksto tipu kintamuju lygius:
+
+console.log(tekstoIlgis.length > kitasTekstoIlgis.length);
 
 //Funkcijos
 //Funkcija pavadinimu "tusciaFunkcija":

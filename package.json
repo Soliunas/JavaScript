@@ -6,8 +6,8 @@
   "scripts": {
     "4-biggest": "nodemon ./js/uzdaviniai/4-biggest.js",
     "3-number": "nodemon ./js/uzdaviniai/3-number.js",
-    "exercise": "nodemon ./js/uzdaviniai/01-exercise.js",
-    "exercises": "nodemon ./js/uzdaviniai/exercises.js",
+    "1-empty": "nodemon ./js/uzdaviniai/1-empty.js",
+    "2-exercises": "nodemon ./js/uzdaviniai/2-my-exercises.js",
     "for": "nodemon ./js/12-for.js",
     "ternary": "nodemon ./js/11-ternary.js",
     "if": "nodemon ./js/10-if.js",
