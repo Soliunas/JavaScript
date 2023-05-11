@@ -33,3 +33,27 @@ console.log(fillterLetters('abcdefghijkl', 3));
 console.log(fillterLetters('abc', 0));
 console.log(fillterLetters('abc', 4));
 console.log(fillterLetters(1561, 2));
+
+
+console.log('-------------------------');
+
+//nd uzduotis
+
+function calc(n1, operation, n2) {
+    if (operation === '+'){
+    return n1+n2;}
+    if (operation === '-'){
+    return n1-n2;}
+    if (operation === '*'){
+    return n1*n2;}
+    if (operation === '/'){
+    return n1/n2;}
+    if (operation === '**'){
+        return n1**n2;}
+}
+
+console.log(`7 + 5 = ${calc(7, '+', 5)}`);
+console.log(`7 - 5 = ${calc(7, '-', 5)}`);
+console.log(`7 * 5 = ${calc(7, '*', 5)}`);
+console.log(`7 / 5 = ${calc(7, '/', 5)}`);
+console.log(`7 ** 5 = ${calc(7, '**', 5)}`);
