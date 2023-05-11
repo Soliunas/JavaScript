@@ -40,16 +40,21 @@ console.log('-------------------------');
 //nd uzduotis
 
 function calc(n1, operation, n2) {
-    if (operation === '+'){
-    return n1+n2;}
-    if (operation === '-'){
-    return n1-n2;}
-    if (operation === '*'){
-    return n1*n2;}
-    if (operation === '/'){
-    return n1/n2;}
-    if (operation === '**'){
-        return n1**n2;}
+    if (operation === '+') {
+    return n1+n2;
+    }
+    if (operation === '-') {
+    return n1-n2;
+    }
+    if (operation === '*') {
+    return n1*n2;
+    }
+    if (operation === '/') {
+    return n1/n2;
+    }
+    if (operation === '**') {
+    return n1**n2;
+    }
 }
 
 console.log(`7 + 5 = ${calc(7, '+', 5)}`);
