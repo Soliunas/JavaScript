@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "filter": "nodemon ./js/17-filter.js",
+    "map": "nodemon ./js/16-map.js",
+    "foreach": "nodemon ./js/15-foreach.js",
     "loops": "nodemon ./js/14-loops.js",
     "5-arrw": "nodemon ./js/uzdaviniai/5-arrw.js",
     "arrow": "nodemon ./js/13-arrow.js",
