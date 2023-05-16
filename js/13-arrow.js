@@ -84,7 +84,7 @@ function calc(n1, operation, n2) {
         '/': (a, b) => a / b,
         '**': (a, b) => a ** b,
     }
-
+    
     return funcs[operation](n1, n2);
 }
     /*
