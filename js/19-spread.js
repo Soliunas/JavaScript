@@ -132,5 +132,3 @@ console.log(student1);
 console.log(student2);
 
 console.clear();
-
-//JSON tai yra tekstinis duomenu formatas, jis yra patogus duomenu vaiskciojimui tarp serverio ir kliento
