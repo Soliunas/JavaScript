@@ -131,3 +131,6 @@ student1.marks.push(4); //ispaudi nauja pazymiu reiksme i Petro pazymius
 console.log(student1);
 console.log(student2);
 
+console.clear();
+
+//JSON tai yra tekstinis duomenu formatas, jis yra patogus duomenu vaiskciojimui tarp serverio ir kliento
