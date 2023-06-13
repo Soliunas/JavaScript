@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "testui": "nodemon ./js/uzdaviniai/testui.js",
+    "random": "nodemon ./js/22-random.js",
     "recursion": "nodemon ./js/21-recursion.js",
     "json": "nodemon ./js/20-json.js",
     "spread": "nodemon ./js/19-spread.js",
