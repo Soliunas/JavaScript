@@ -32,7 +32,7 @@ console.log(sum);
 let sum2 = 0;
 
 for (let i = 0; i < pinigineLength; i ++) {
-    if (pinigine [i] > 2) {
+    if (pinigine[i] > 2) {
     sum2 += pinigine[i];
     };
 }
@@ -42,7 +42,7 @@ console.log(sum2);
 // 4 uzd. Išleisti visus metalinius pinigus (reikšmes, kurios yra mažesnės arba lygios 2 padaryti lygias 0) iš 1 uždavinio;
 
 for (let i = 0; i < pinigineLength; i ++) {
-    if (pinigine [i] <= 2) {
+    if (pinigine[i] <= 2) {
     sum2 += pinigine[i];
     };
 }
